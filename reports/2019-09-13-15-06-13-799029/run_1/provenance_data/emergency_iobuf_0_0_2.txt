@@ -1,0 +1,1574 @@
+[INFO] (data_speed_up_packet_gatherer.c: 709): Configuring packet gatherer
+[INFO] (data_specification.c: 78): magic = ad130ad6, version = 1.0
+[INFO] (data_speed_up_packet_gatherer.c: 652): Initialising data out
+[INFO] (data_speed_up_packet_gatherer.c: 671): Initialising data in
+[INFO] (data_speed_up_packet_gatherer.c: 693): receive timeout is 33000us
+[INFO] (data_speed_up_packet_gatherer.c: 715): Starting
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 0,0
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 9 packets to 0x602435d8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 3 packets to 0x60243fb8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 1116 packets to 0x60244600
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 717 missing packets
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 400 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602aa92c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602af208
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 9 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 4 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602b3ae4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602b83c0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 25 packets to 0x602bcc9c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602be758
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c3034
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c7910
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602cc1ec
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602d0ac8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602d53a4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602d9c80
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602de55c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 1,0
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60247c04
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6024c4e0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60250dbc
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 54 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60255698
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60259f74
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6025e850
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026312c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60267a08
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026c2e4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60270bc0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027549c
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 22 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60279d78
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 44 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027e654
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282f30
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 1,1
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60247c04
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6024c4e0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60250dbc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60255698
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60259f74
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6025e850
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026312c
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 18 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60267a08
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026c2e4
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 62 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 46 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 14 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 4 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 8 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 9 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 10 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 11 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 12 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 13 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60270bc0
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 67 missing packets
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 44 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 16 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 3 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 4 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 5 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 6 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 7 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 8 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 9 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 10 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 11 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 12 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 13 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027549c
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 60 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 42 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 25 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 10 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 11 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 12 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 13 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60279d78
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027e654
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282f30
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 0,1
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60247c04
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6024c4e0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60250dbc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60255698
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60259f74
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6025e850
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026312c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60267a08
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026c2e4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60270bc0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027549c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60279d78
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 56 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 12 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027e654
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282f30
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 2,0
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 19 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602447bc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60283714
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 68 missing packets
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 2 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c266c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603015c4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6034051c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6037f474
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603be3cc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603fd324
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6043c27c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6047b1d4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604ba12c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604f9084
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60537fdc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60576f34
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 10 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 2,1
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282280
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c11d8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60300130
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6033f088
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6037dfe0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603bcf38
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603fbe90
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6043ade8
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60479d40
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604b8c98
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604f7bf0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60536b48
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60575aa0
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 4 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+
+[INFO] (data_speed_up_packet_gatherer.c: 709): Configuring packet gatherer
+[INFO] (data_specification.c: 78): magic = ad130ad6, version = 1.0
+[INFO] (data_speed_up_packet_gatherer.c: 652): Initialising data out
+[INFO] (data_speed_up_packet_gatherer.c: 671): Initialising data in
+[INFO] (data_speed_up_packet_gatherer.c: 693): receive timeout is 33000us
+[INFO] (data_speed_up_packet_gatherer.c: 715): Starting
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 0,0
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 9 packets to 0x602435d8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 3 packets to 0x60243fb8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 1116 packets to 0x60244600
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 717 missing packets
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 400 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602aa92c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602af208
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 9 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 4 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602b3ae4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602b83c0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 25 packets to 0x602bcc9c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602be758
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c3034
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c7910
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602cc1ec
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602d0ac8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602d53a4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602d9c80
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602de55c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 1,0
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60247c04
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6024c4e0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60250dbc
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 54 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60255698
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60259f74
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6025e850
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026312c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60267a08
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026c2e4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60270bc0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027549c
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 22 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60279d78
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 44 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027e654
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282f30
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 1,1
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60247c04
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6024c4e0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60250dbc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60255698
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60259f74
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6025e850
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026312c
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 18 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60267a08
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026c2e4
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 62 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 46 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 14 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 4 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 8 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 9 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 10 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 11 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 12 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 13 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60270bc0
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 67 missing packets
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 44 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 16 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 3 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 4 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 5 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 6 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 7 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 8 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 9 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 10 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 11 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 12 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 13 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027549c
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 60 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 42 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 25 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 10 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 11 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 12 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 13 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60279d78
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027e654
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282f30
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 0,1
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60247c04
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6024c4e0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60250dbc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60255698
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60259f74
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6025e850
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026312c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60267a08
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6026c2e4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60270bc0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027549c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60279d78
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 56 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 12 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 14 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 15 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 16 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 17 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 18 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 19 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 20 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 21 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 22 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 23 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 24 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 25 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 26 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 27 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 28 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 29 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 30 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 31 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 32 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 33 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 34 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 35 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 36 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 37 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 38 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 39 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 40 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 41 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 42 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 43 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 44 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 45 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 46 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 47 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 48 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 49 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 50 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 51 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 52 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 53 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 54 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 55 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 56 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 57 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 58 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 59 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 61 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 62 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 63 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 64 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 65 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6027e654
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282f30
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 2,0
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 19 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602447bc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60283714
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 68 missing packets
+[ERROR] (data_speed_up_packet_gatherer.c: 354): bad message length 280
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 2 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c266c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603015c4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6034051c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6037f474
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603be3cc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603fd324
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6043c27c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6047b1d4
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604ba12c
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604f9084
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60537fdc
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60576f34
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 10 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 60 when max is 0!
+[INFO] (data_speed_up_packet_gatherer.c: 462): Changed stream target chip to 2,1
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60243328
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60282280
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x602c11d8
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60300130
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6033f088
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6037dfe0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603bcf38
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x603fbe90
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x6043ade8
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 1 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60479d40
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604b8c98
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x604f7bf0
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60536b48
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[INFO] (data_speed_up_packet_gatherer.c: 465): Writing 69 packets to 0x60575aa0
+[INFO] (data_speed_up_packet_gatherer.c: 527): Timed out; checking for missing anyway
+[INFO] (data_speed_up_packet_gatherer.c: 402): Looking for 4 missing packets
+[INFO] (data_speed_up_packet_gatherer.c: 396): Sent end flag
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 66 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 67 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 68 when max is 0!
+[ERROR] (data_speed_up_packet_gatherer.c: 497): Bad sequence number 69 when max is 0!
+

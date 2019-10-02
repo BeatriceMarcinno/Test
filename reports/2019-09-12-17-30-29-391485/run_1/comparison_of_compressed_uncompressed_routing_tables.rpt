@@ -1,0 +1,10 @@
+Uncompressed table at 2:0 has 11 entries whereas compressed table has 11 entries. This is a decrease of 0.0%
+Uncompressed table at 1:0 has 10 entries whereas compressed table has 10 entries. This is a decrease of 0.0%
+Uncompressed table at 1:2 has 11 entries whereas compressed table has 11 entries. This is a decrease of 0.0%
+Uncompressed table at 2:2 has 16 entries whereas compressed table has 16 entries. This is a decrease of 0.0%
+Uncompressed table at 1:1 has 40 entries whereas compressed table has 40 entries. This is a decrease of 0.0%
+Uncompressed table at 2:1 has 16 entries whereas compressed table has 16 entries. This is a decrease of 0.0%
+Uncompressed table at 0:0 has 50 entries whereas compressed table has 50 entries. This is a decrease of 0.0%
+
+Total has 154 entries whereas compressed tables have 154 entries. This is an average decrease of 0.0%
+Worst case has 50 entries whereas compressed tables have 50 entries. This is a decrease of 0.0%

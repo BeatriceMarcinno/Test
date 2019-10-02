@@ -1,0 +1,65 @@
+<provenance_data_items name="pacman">
+  <provenance_data_items name="machine_generation">
+    <provenance_data_item name="run_time_of_SpallocMaxMachineGenerator">0:00:08.783440</provenance_data_item>
+    <provenance_data_item name="run_time_of_PreAllocateResourcesForExtraMonitorSupport">0:00:00.468646</provenance_data_item>
+    <provenance_data_item name="run_time_of_PartitionAndPlacePartitioner">0:00:18.446130</provenance_data_item>
+    <provenance_data_item name="run_time_of_SpallocAllocator">0:00:05.135839</provenance_data_item>
+    <provenance_data_item name="run_time_of_MachineGenerator">0:00:10.235002</provenance_data_item>
+  </provenance_data_items>
+  <provenance_data_items name="mapping">
+    <provenance_data_item name="run_time_of_PartitionerReport">0:00:00</provenance_data_item>
+    <provenance_data_item name="run_time_of_NetworkSpecificationReport">0:00:00</provenance_data_item>
+    <provenance_data_item name="run_time_of_MallocBasedChipIDAllocator">0:00:00.015620</provenance_data_item>
+    <provenance_data_item name="run_time_of_InsertExtraMonitorVerticesToGraphs">0:00:00.046944</provenance_data_item>
+    <provenance_data_item name="run_time_of_BoardChipReport">0:00:00.015585</provenance_data_item>
+    <provenance_data_item name="run_time_of_GraphEdgeFilter">0:00:00.078106</provenance_data_item>
+    <provenance_data_item name="run_time_of_OneToOnePlacer">0:00:00.265518</provenance_data_item>
+    <provenance_data_item name="run_time_of_InsertEdgesToExtraMonitorFunctionality">0:00:00.156257</provenance_data_item>
+    <provenance_data_item name="run_time_of_DataInMulticastRoutingGenerator">0:00:00.568280</provenance_data_item>
+    <provenance_data_item name="run_time_of_FixedRouteRouter">0:00:00.015622</provenance_data_item>
+    <provenance_data_item name="run_time_of_PlacerReportWithApplicationGraph">0:00:00.093726</provenance_data_item>
+    <provenance_data_item name="run_time_of_NerRoute">0:00:00.046907</provenance_data_item>
+    <provenance_data_item name="run_time_of_BasicTagAllocator">0:00:00.062488</provenance_data_item>
+    <provenance_data_item name="run_time_of_TagReport">0:00:00</provenance_data_item>
+    <provenance_data_item name="run_time_of_EdgeToNKeysMapper">0:00:00.015618</provenance_data_item>
+    <provenance_data_item name="run_time_of_ProcessPartitionConstraints">0:00:00.015623</provenance_data_item>
+    <provenance_data_item name="run_time_of_MallocBasedRoutingInfoAllocator">0:00:00.015622</provenance_data_item>
+    <provenance_data_item name="run_time_of_routingInfoReports">0:00:00.031230</provenance_data_item>
+    <provenance_data_item name="run_time_of_BasicRoutingTableGenerator">0:00:00</provenance_data_item>
+    <provenance_data_item name="run_time_of_LocateExecutableStartType">0:00:00.031268</provenance_data_item>
+    <provenance_data_item name="run_time_of_BufferManagerCreator">0:00:00.046883</provenance_data_item>
+  </provenance_data_items>
+  <provenance_data_items name="data_generation">
+    <provenance_data_item name="run_time_of_SpynnakerDataSpecificationWriter">0:00:23.960245</provenance_data_item>
+  </provenance_data_items>
+  <provenance_data_items name="loading">
+    <provenance_data_item name="run_time_of_RoutingSetup">0:00:00.734247</provenance_data_item>
+    <provenance_data_item name="run_time_of_GraphBinaryGatherer">0:00:00.124953</provenance_data_item>
+    <provenance_data_item name="run_time_of_MundyOnChipRouterCompression">0:00:09.617906</provenance_data_item>
+    <provenance_data_item name="run_time_of_unCompressedRoutingTableReports">0:00:00.015554</provenance_data_item>
+    <provenance_data_item name="run_time_of_LoadFixedRoutes">0:00:01.649894</provenance_data_item>
+    <provenance_data_item name="run_time_of_HostExecuteSystemDataSpecification">0:00:17.471475</provenance_data_item>
+    <provenance_data_item name="run_time_of_LoadSystemExecutableImages">0:00:06.757222</provenance_data_item>
+    <provenance_data_item name="run_time_of_TagsLoader">0:00:00.108887</provenance_data_item>
+    <provenance_data_item name="run_time_of_WriteMemoryIOData">0:00:00.046861</provenance_data_item>
+    <provenance_data_item name="run_time_of_HostExecuteApplicationDataSpecification">0:05:53.969978</provenance_data_item>
+    <provenance_data_item name="run_time_of_SynapseExpander">0:00:04.526382</provenance_data_item>
+    <provenance_data_item name="run_time_of_FixedRouteFromMachineReport">0:00:00.421708</provenance_data_item>
+    <provenance_data_item name="run_time_of_LoadApplicationExecutableImages">0:00:12.451302</provenance_data_item>
+    <provenance_data_item name="run_time_of_RoutingTableFromMachineReport">0:00:02.896259</provenance_data_item>
+    <provenance_data_item name="run_time_of_compressedRoutingTableReports">0:00:00.015115</provenance_data_item>
+    <provenance_data_item name="run_time_of_comparisonOfRoutingTablesReport">0:00:00</provenance_data_item>
+  </provenance_data_items>
+  <provenance_data_items name="Execution">
+    <provenance_data_item name="run_time_of_SdramUsageReportPerChip">0:00:00.093754</provenance_data_item>
+    <provenance_data_item name="run_time_of_ChipRuntimeUpdater">0:00:02.699498</provenance_data_item>
+    <provenance_data_item name="run_time_of_DatabaseInterface">0:00:00</provenance_data_item>
+    <provenance_data_item name="run_time_of_NotificationProtocol">0:00:00</provenance_data_item>
+    <provenance_data_item name="run_time_of_ApplicationRunner">0:00:42.960984</provenance_data_item>
+    <provenance_data_item name="run_time_of_BufferExtractor">0:00:45.569035</provenance_data_item>
+    <provenance_data_item name="run_time_of_GraphProvenanceGatherer">0:00:00.046860</provenance_data_item>
+    <provenance_data_item name="run_time_of_PlacementsProvenanceGatherer">0:00:05.313791</provenance_data_item>
+    <provenance_data_item name="run_time_of_RouterProvenanceGatherer">0:00:02.280717</provenance_data_item>
+    <provenance_data_item name="run_time_of_ProfileDataGatherer">0:00:05.843220</provenance_data_item>
+  </provenance_data_items>
+</provenance_data_items>

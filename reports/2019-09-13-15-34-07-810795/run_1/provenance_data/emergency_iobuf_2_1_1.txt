@@ -1,0 +1,35 @@
+Loading system router entries into router
+Saving existing router table
+Loading system (Fast Data In) routes
+Writing 4 router entries
+Setting write address to 0x60243328
+Wrote 4607 words
+Setting write address to 0x60282280
+Wrote 4607 words
+Setting write address to 0x602c11d8
+Wrote 4607 words
+Setting write address to 0x60300130
+Wrote 4607 words
+Setting write address to 0x6033f088
+Wrote 4607 words
+Setting write address to 0x6037dfe0
+Wrote 4607 words
+Setting write address to 0x603bcf38
+Wrote 4607 words
+Setting write address to 0x603fbe90
+Wrote 4607 words
+Setting write address to 0x6043ade8
+Wrote 4607 words
+Setting write address to 0x60479d40
+Wrote 4607 words
+Setting write address to 0x604b8c98
+Wrote 4607 words
+Setting write address to 0x604f7bf0
+Wrote 4607 words
+Setting write address to 0x60536b48
+Wrote 4607 words
+Setting write address to 0x60575aa0
+Wrote 4607 words
+Setting write address to 0x605b49f8
+Wrote 4607 words
+

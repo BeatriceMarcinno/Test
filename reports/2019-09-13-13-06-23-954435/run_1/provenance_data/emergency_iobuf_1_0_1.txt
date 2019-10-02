@@ -1,0 +1,1 @@
+failed to retrieve iobufs from 1,0,1; IO Error: [WinError 10055] Spazio nel buffer insufficiente o coda piena. Impossibile eseguire l'operazione sul socket

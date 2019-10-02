@@ -3,8 +3,8 @@ import h5py
 #import matplotlib.pyplot as plt
 from scaffold_params import *
 #from pyNN.utility.plotting import Figure, Panel
-from ListConnector import *
-from spynnaker8 import *
+#from ListConnector import *
+#from spynnaker8 import *
 import pyNN.utility.plotting as plot
 import matplotlib.pyplot as matplotlib
 
@@ -53,16 +53,18 @@ def connect_neuron(conn_mat, pre, post, syn_param):
 
 
 DELAY = 1
-setup(timestep= DELAY, min_delay= DELAY)
+#setup(timestep= DELAY, min_delay= DELAY)
 
 filename = 'scaffold_detailed__158.0x158.0_v3.hdf5'
 #filename = 'scaffold_full_dcn_400.0x400.0_v3.hdf5'
 f = h5py.File(filename, 'r+')
 positions = np.array(f['positions'])
+
+prova = np.array(f['connections/aa_goc'])
 num_tot = 0
 
 sorted_nrn_types = sorted(list(cell_type_ID.values()))
-
+#cell_pos = positions[positions[:, 1] == sorted_nrn_types[0], :]
 # Create a 'inverse map' of cell_type_IDaa_pc
 id_2_cell_type = {val: key for key, val in cell_type_ID.items()}
 

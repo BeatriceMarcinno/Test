@@ -1,0 +1,169 @@
+        Placement Information by Vertex
+        ===============================
+
+Generated: Wed Sep 11 13:00:50 2019 for target machine '10.11.193.1'
+
+**** Vertex: 'AbstractPopulationVertex_1'
+Model: AbstractPopulationVertex
+Pop size: 34
+Machine Vertices: 
+  Slice 0:33 (34 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_2'
+Model: AbstractPopulationVertex
+Pop size: 1111
+Machine Vertices: 
+  Slice 0:254 (255 atoms) 
+  Slice 255:509 (255 atoms) 
+  Slice 510:764 (255 atoms) 
+  Slice 765:1019 (255 atoms) 
+  Slice 1020:1110 (91 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_3'
+Model: AbstractPopulationVertex
+Pop size: 13584
+Machine Vertices: 
+  Slice 0:254 (255 atoms) 
+  Slice 255:509 (255 atoms) 
+  Slice 510:764 (255 atoms) 
+  Slice 765:1019 (255 atoms) 
+  Slice 1020:1274 (255 atoms) 
+  Slice 1275:1529 (255 atoms) 
+  Slice 1530:1784 (255 atoms) 
+  Slice 1785:2039 (255 atoms) 
+  Slice 2040:2294 (255 atoms) 
+  Slice 2295:2549 (255 atoms) 
+  Slice 2550:2804 (255 atoms) 
+  Slice 2805:3059 (255 atoms) 
+  Slice 3060:3314 (255 atoms) 
+  Slice 3315:3569 (255 atoms) 
+  Slice 3570:3824 (255 atoms) 
+  Slice 3825:4079 (255 atoms) 
+  Slice 4080:4334 (255 atoms) 
+  Slice 4335:4589 (255 atoms) 
+  Slice 4590:4844 (255 atoms) 
+  Slice 4845:5099 (255 atoms) 
+  Slice 5100:5354 (255 atoms) 
+  Slice 5355:5609 (255 atoms) 
+  Slice 5610:5864 (255 atoms) 
+  Slice 5865:6119 (255 atoms) 
+  Slice 6120:6374 (255 atoms) 
+  Slice 6375:6629 (255 atoms) 
+  Slice 6630:6884 (255 atoms) 
+  Slice 6885:7139 (255 atoms) 
+  Slice 7140:7394 (255 atoms) 
+  Slice 7395:7649 (255 atoms) 
+  Slice 7650:7904 (255 atoms) 
+  Slice 7905:8159 (255 atoms) 
+  Slice 8160:8414 (255 atoms) 
+  Slice 8415:8669 (255 atoms) 
+  Slice 8670:8924 (255 atoms) 
+  Slice 8925:9179 (255 atoms) 
+  Slice 9180:9434 (255 atoms) 
+  Slice 9435:9689 (255 atoms) 
+  Slice 9690:9944 (255 atoms) 
+  Slice 9945:10199 (255 atoms) 
+  Slice 10200:10454 (255 atoms) 
+  Slice 10455:10709 (255 atoms) 
+  Slice 10710:10964 (255 atoms) 
+  Slice 10965:11219 (255 atoms) 
+  Slice 11220:11474 (255 atoms) 
+  Slice 11475:11729 (255 atoms) 
+  Slice 11730:11984 (255 atoms) 
+  Slice 11985:12239 (255 atoms) 
+  Slice 12240:12494 (255 atoms) 
+  Slice 12495:12749 (255 atoms) 
+  Slice 12750:13004 (255 atoms) 
+  Slice 13005:13259 (255 atoms) 
+  Slice 13260:13514 (255 atoms) 
+  Slice 13515:13583 (69 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_4'
+Model: AbstractPopulationVertex
+Pop size: 13584
+Machine Vertices: 
+  Slice 0:254 (255 atoms) 
+  Slice 255:509 (255 atoms) 
+  Slice 510:764 (255 atoms) 
+  Slice 765:1019 (255 atoms) 
+  Slice 1020:1274 (255 atoms) 
+  Slice 1275:1529 (255 atoms) 
+  Slice 1530:1784 (255 atoms) 
+  Slice 1785:2039 (255 atoms) 
+  Slice 2040:2294 (255 atoms) 
+  Slice 2295:2549 (255 atoms) 
+  Slice 2550:2804 (255 atoms) 
+  Slice 2805:3059 (255 atoms) 
+  Slice 3060:3314 (255 atoms) 
+  Slice 3315:3569 (255 atoms) 
+  Slice 3570:3824 (255 atoms) 
+  Slice 3825:4079 (255 atoms) 
+  Slice 4080:4334 (255 atoms) 
+  Slice 4335:4589 (255 atoms) 
+  Slice 4590:4844 (255 atoms) 
+  Slice 4845:5099 (255 atoms) 
+  Slice 5100:5354 (255 atoms) 
+  Slice 5355:5609 (255 atoms) 
+  Slice 5610:5864 (255 atoms) 
+  Slice 5865:6119 (255 atoms) 
+  Slice 6120:6374 (255 atoms) 
+  Slice 6375:6629 (255 atoms) 
+  Slice 6630:6884 (255 atoms) 
+  Slice 6885:7139 (255 atoms) 
+  Slice 7140:7394 (255 atoms) 
+  Slice 7395:7649 (255 atoms) 
+  Slice 7650:7904 (255 atoms) 
+  Slice 7905:8159 (255 atoms) 
+  Slice 8160:8414 (255 atoms) 
+  Slice 8415:8669 (255 atoms) 
+  Slice 8670:8924 (255 atoms) 
+  Slice 8925:9179 (255 atoms) 
+  Slice 9180:9434 (255 atoms) 
+  Slice 9435:9689 (255 atoms) 
+  Slice 9690:9944 (255 atoms) 
+  Slice 9945:10199 (255 atoms) 
+  Slice 10200:10454 (255 atoms) 
+  Slice 10455:10709 (255 atoms) 
+  Slice 10710:10964 (255 atoms) 
+  Slice 10965:11219 (255 atoms) 
+  Slice 11220:11474 (255 atoms) 
+  Slice 11475:11729 (255 atoms) 
+  Slice 11730:11984 (255 atoms) 
+  Slice 11985:12239 (255 atoms) 
+  Slice 12240:12494 (255 atoms) 
+  Slice 12495:12749 (255 atoms) 
+  Slice 12750:13004 (255 atoms) 
+  Slice 13005:13259 (255 atoms) 
+  Slice 13260:13514 (255 atoms) 
+  Slice 13515:13583 (69 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_5'
+Model: AbstractPopulationVertex
+Pop size: 9
+Machine Vertices: 
+  Slice 0:8 (9 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_6'
+Model: AbstractPopulationVertex
+Pop size: 96
+Machine Vertices: 
+  Slice 0:95 (96 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_7'
+Model: AbstractPopulationVertex
+Pop size: 96
+Machine Vertices: 
+  Slice 0:95 (96 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_8'
+Model: AbstractPopulationVertex
+Pop size: 8
+Machine Vertices: 
+  Slice 0:7 (8 atoms) 
+
+**** Vertex: 'SpikeSourceArrayVertex_9'
+Model: SpikeSourceArrayVertex
+Pop size: 13584
+Machine Vertices: 
+  Slice 0:13583 (13584 atoms) 
+

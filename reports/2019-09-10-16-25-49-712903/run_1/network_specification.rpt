@@ -1,0 +1,48 @@
+*** Vertices:
+Vertex AbstractPopulationVertex_1, size: 34, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_2, size: 1111, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_3, size: 13584, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_4, size: 13584, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_5, size: 9, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_6, size: 96, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_7, size: 96, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex AbstractPopulationVertex_8, size: 8, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+
+Vertex SpikeSourceArrayVertex_9, size: 13584, model: SpikeSourceArrayVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=9223372036854775807)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: projection edge 0, From SpikeSourceArrayVertex_9 to AbstractPopulationVertex_3, model: ProjectionApplicationEdge
+

@@ -1,0 +1,463 @@
+        Placement Information by Vertex
+        ===============================
+
+Generated: Tue Sep 10 17:46:19 2019 for target machine '10.11.194.65'
+
+**** Vertex: 'AbstractPopulationVertex_1'
+Model: AbstractPopulationVertex
+Pop size: 34
+Machine Vertices: 
+  Slice 0:33 (34 atoms) on core (0, 0, 3) 
+
+**** Vertex: 'AbstractPopulationVertex_2'
+Model: AbstractPopulationVertex
+Pop size: 1111
+Machine Vertices: 
+  Slice 0:254 (255 atoms) on core (0, 0, 4) 
+  Slice 255:509 (255 atoms) on core (0, 0, 5) 
+  Slice 510:764 (255 atoms) on core (0, 0, 6) 
+  Slice 765:1019 (255 atoms) on core (0, 0, 7) 
+  Slice 1020:1110 (91 atoms) on core (0, 0, 8) 
+
+**** Vertex: 'AbstractPopulationVertex_3'
+Model: AbstractPopulationVertex
+Pop size: 13584
+Machine Vertices: 
+  Slice 0:254 (255 atoms) on core (0, 0, 9) 
+  Slice 255:509 (255 atoms) on core (0, 0, 10) 
+  Slice 510:764 (255 atoms) on core (0, 0, 11) 
+  Slice 765:1019 (255 atoms) on core (0, 0, 12) 
+  Slice 1020:1274 (255 atoms) on core (0, 0, 13) 
+  Slice 1275:1529 (255 atoms) on core (0, 0, 14) 
+  Slice 1530:1784 (255 atoms) on core (0, 0, 15) 
+  Slice 1785:2039 (255 atoms) on core (0, 0, 16) 
+  Slice 2040:2294 (255 atoms) on core (1, 0, 2) 
+  Slice 2295:2549 (255 atoms) on core (1, 0, 3) 
+  Slice 2550:2804 (255 atoms) on core (1, 0, 4) 
+  Slice 2805:3059 (255 atoms) on core (1, 0, 5) 
+  Slice 3060:3314 (255 atoms) on core (1, 0, 6) 
+  Slice 3315:3569 (255 atoms) on core (1, 0, 7) 
+  Slice 3570:3824 (255 atoms) on core (1, 0, 8) 
+  Slice 3825:4079 (255 atoms) on core (1, 0, 9) 
+  Slice 4080:4334 (255 atoms) on core (1, 0, 10) 
+  Slice 4335:4589 (255 atoms) on core (1, 0, 11) 
+  Slice 4590:4844 (255 atoms) on core (1, 0, 12) 
+  Slice 4845:5099 (255 atoms) on core (1, 0, 13) 
+  Slice 5100:5354 (255 atoms) on core (1, 0, 14) 
+  Slice 5355:5609 (255 atoms) on core (1, 0, 15) 
+  Slice 5610:5864 (255 atoms) on core (1, 0, 16) 
+  Slice 5865:6119 (255 atoms) on core (1, 1, 2) 
+  Slice 6120:6374 (255 atoms) on core (1, 1, 3) 
+  Slice 6375:6629 (255 atoms) on core (1, 1, 4) 
+  Slice 6630:6884 (255 atoms) on core (1, 1, 5) 
+  Slice 6885:7139 (255 atoms) on core (1, 1, 6) 
+  Slice 7140:7394 (255 atoms) on core (1, 1, 7) 
+  Slice 7395:7649 (255 atoms) on core (1, 1, 8) 
+  Slice 7650:7904 (255 atoms) on core (1, 1, 9) 
+  Slice 7905:8159 (255 atoms) on core (1, 1, 10) 
+  Slice 8160:8414 (255 atoms) on core (1, 1, 11) 
+  Slice 8415:8669 (255 atoms) on core (1, 1, 12) 
+  Slice 8670:8924 (255 atoms) on core (1, 1, 13) 
+  Slice 8925:9179 (255 atoms) on core (1, 1, 14) 
+  Slice 9180:9434 (255 atoms) on core (1, 1, 15) 
+  Slice 9435:9689 (255 atoms) on core (1, 1, 16) 
+  Slice 9690:9944 (255 atoms) on core (0, 1, 2) 
+  Slice 9945:10199 (255 atoms) on core (0, 1, 3) 
+  Slice 10200:10454 (255 atoms) on core (0, 1, 4) 
+  Slice 10455:10709 (255 atoms) on core (0, 1, 5) 
+  Slice 10710:10964 (255 atoms) on core (0, 1, 6) 
+  Slice 10965:11219 (255 atoms) on core (0, 1, 7) 
+  Slice 11220:11474 (255 atoms) on core (0, 1, 8) 
+  Slice 11475:11729 (255 atoms) on core (0, 1, 9) 
+  Slice 11730:11984 (255 atoms) on core (0, 1, 10) 
+  Slice 11985:12239 (255 atoms) on core (0, 1, 11) 
+  Slice 12240:12494 (255 atoms) on core (0, 1, 12) 
+  Slice 12495:12749 (255 atoms) on core (0, 1, 13) 
+  Slice 12750:13004 (255 atoms) on core (0, 1, 14) 
+  Slice 13005:13259 (255 atoms) on core (0, 1, 15) 
+  Slice 13260:13514 (255 atoms) on core (0, 1, 16) 
+  Slice 13515:13583 (69 atoms) on core (2, 0, 2) 
+
+**** Vertex: 'AbstractPopulationVertex_4'
+Model: AbstractPopulationVertex
+Pop size: 13584
+Machine Vertices: 
+  Slice 0:254 (255 atoms) on core (2, 0, 3) 
+  Slice 255:509 (255 atoms) on core (2, 0, 4) 
+  Slice 510:764 (255 atoms) on core (2, 0, 5) 
+  Slice 765:1019 (255 atoms) on core (2, 0, 6) 
+  Slice 1020:1274 (255 atoms) on core (2, 0, 7) 
+  Slice 1275:1529 (255 atoms) on core (2, 0, 8) 
+  Slice 1530:1784 (255 atoms) on core (2, 0, 9) 
+  Slice 1785:2039 (255 atoms) on core (2, 0, 10) 
+  Slice 2040:2294 (255 atoms) on core (2, 0, 11) 
+  Slice 2295:2549 (255 atoms) on core (2, 0, 12) 
+  Slice 2550:2804 (255 atoms) on core (2, 0, 13) 
+  Slice 2805:3059 (255 atoms) on core (2, 0, 14) 
+  Slice 3060:3314 (255 atoms) on core (2, 0, 15) 
+  Slice 3315:3569 (255 atoms) on core (2, 0, 16) 
+  Slice 3570:3824 (255 atoms) on core (2, 1, 2) 
+  Slice 3825:4079 (255 atoms) on core (2, 1, 3) 
+  Slice 4080:4334 (255 atoms) on core (2, 1, 4) 
+  Slice 4335:4589 (255 atoms) on core (2, 1, 5) 
+  Slice 4590:4844 (255 atoms) on core (2, 1, 6) 
+  Slice 4845:5099 (255 atoms) on core (2, 1, 7) 
+  Slice 5100:5354 (255 atoms) on core (2, 1, 8) 
+  Slice 5355:5609 (255 atoms) on core (2, 1, 9) 
+  Slice 5610:5864 (255 atoms) on core (2, 1, 10) 
+  Slice 5865:6119 (255 atoms) on core (2, 1, 11) 
+  Slice 6120:6374 (255 atoms) on core (2, 1, 12) 
+  Slice 6375:6629 (255 atoms) on core (2, 1, 13) 
+  Slice 6630:6884 (255 atoms) on core (2, 1, 14) 
+  Slice 6885:7139 (255 atoms) on core (2, 1, 15) 
+  Slice 7140:7394 (255 atoms) on core (2, 1, 16) 
+  Slice 7395:7649 (255 atoms) on core (2, 2, 2) 
+  Slice 7650:7904 (255 atoms) on core (2, 2, 3) 
+  Slice 7905:8159 (255 atoms) on core (2, 2, 4) 
+  Slice 8160:8414 (255 atoms) on core (2, 2, 5) 
+  Slice 8415:8669 (255 atoms) on core (2, 2, 6) 
+  Slice 8670:8924 (255 atoms) on core (2, 2, 7) 
+  Slice 8925:9179 (255 atoms) on core (2, 2, 8) 
+  Slice 9180:9434 (255 atoms) on core (2, 2, 9) 
+  Slice 9435:9689 (255 atoms) on core (2, 2, 10) 
+  Slice 9690:9944 (255 atoms) on core (2, 2, 11) 
+  Slice 9945:10199 (255 atoms) on core (2, 2, 12) 
+  Slice 10200:10454 (255 atoms) on core (2, 2, 13) 
+  Slice 10455:10709 (255 atoms) on core (2, 2, 14) 
+  Slice 10710:10964 (255 atoms) on core (2, 2, 15) 
+  Slice 10965:11219 (255 atoms) on core (2, 2, 16) 
+  Slice 11220:11474 (255 atoms) on core (1, 2, 2) 
+  Slice 11475:11729 (255 atoms) on core (1, 2, 3) 
+  Slice 11730:11984 (255 atoms) on core (1, 2, 4) 
+  Slice 11985:12239 (255 atoms) on core (1, 2, 5) 
+  Slice 12240:12494 (255 atoms) on core (1, 2, 6) 
+  Slice 12495:12749 (255 atoms) on core (1, 2, 7) 
+  Slice 12750:13004 (255 atoms) on core (1, 2, 8) 
+  Slice 13005:13259 (255 atoms) on core (1, 2, 9) 
+  Slice 13260:13514 (255 atoms) on core (1, 2, 10) 
+  Slice 13515:13583 (69 atoms) on core (1, 2, 11) 
+
+**** Vertex: 'AbstractPopulationVertex_5'
+Model: AbstractPopulationVertex
+Pop size: 9
+Machine Vertices: 
+  Slice 0:8 (9 atoms) on core (1, 2, 12) 
+
+**** Vertex: 'AbstractPopulationVertex_6'
+Model: AbstractPopulationVertex
+Pop size: 96
+Machine Vertices: 
+  Slice 0:95 (96 atoms) on core (1, 2, 13) 
+
+**** Vertex: 'AbstractPopulationVertex_7'
+Model: AbstractPopulationVertex
+Pop size: 96
+Machine Vertices: 
+  Slice 0:95 (96 atoms) on core (1, 2, 14) 
+
+**** Vertex: 'AbstractPopulationVertex_8'
+Model: AbstractPopulationVertex
+Pop size: 8
+Machine Vertices: 
+  Slice 0:7 (8 atoms) on core (1, 2, 15) 
+
+**** Vertex: 'SpikeSourceArrayVertex_9'
+Model: SpikeSourceArrayVertex
+Pop size: 13584
+Machine Vertices: 
+  Slice 0:13583 (13584 atoms) on core (1, 2, 16) 
+
+**** Vertex: 'ExtraMonitorSupport'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (0, 0, 1) 
+
+**** Vertex: 'ExtraMonitorSupport1'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (0, 1, 1) 
+
+**** Vertex: 'ExtraMonitorSupport2'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (0, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport3'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (0, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport4'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (1, 0, 1) 
+
+**** Vertex: 'ExtraMonitorSupport5'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (1, 1, 1) 
+
+**** Vertex: 'ExtraMonitorSupport6'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (1, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport7'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (1, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport8'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (1, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport9'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (2, 0, 1) 
+
+**** Vertex: 'ExtraMonitorSupport10'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (2, 1, 1) 
+
+**** Vertex: 'ExtraMonitorSupport11'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (2, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport12'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (2, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport13'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (2, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport14'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (2, 5, 1) 
+
+**** Vertex: 'ExtraMonitorSupport15'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 0, 1) 
+
+**** Vertex: 'ExtraMonitorSupport16'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 1, 1) 
+
+**** Vertex: 'ExtraMonitorSupport17'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport18'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport19'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport20'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 5, 1) 
+
+**** Vertex: 'ExtraMonitorSupport21'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (3, 6, 1) 
+
+**** Vertex: 'ExtraMonitorSupport22'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 0, 1) 
+
+**** Vertex: 'ExtraMonitorSupport23'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 1, 1) 
+
+**** Vertex: 'ExtraMonitorSupport24'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport25'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport26'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport27'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 5, 1) 
+
+**** Vertex: 'ExtraMonitorSupport28'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 6, 1) 
+
+**** Vertex: 'ExtraMonitorSupport29'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (4, 7, 1) 
+
+**** Vertex: 'ExtraMonitorSupport30'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 1, 1) 
+
+**** Vertex: 'ExtraMonitorSupport31'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport32'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport33'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport34'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 5, 1) 
+
+**** Vertex: 'ExtraMonitorSupport35'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 6, 1) 
+
+**** Vertex: 'ExtraMonitorSupport36'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (5, 7, 1) 
+
+**** Vertex: 'ExtraMonitorSupport37'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (6, 2, 1) 
+
+**** Vertex: 'ExtraMonitorSupport38'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (6, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport39'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (6, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport40'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (6, 5, 1) 
+
+**** Vertex: 'ExtraMonitorSupport41'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (6, 6, 1) 
+
+**** Vertex: 'ExtraMonitorSupport42'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (6, 7, 1) 
+
+**** Vertex: 'ExtraMonitorSupport43'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (7, 3, 1) 
+
+**** Vertex: 'ExtraMonitorSupport44'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (7, 4, 1) 
+
+**** Vertex: 'ExtraMonitorSupport45'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (7, 5, 1) 
+
+**** Vertex: 'ExtraMonitorSupport46'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (7, 6, 1) 
+
+**** Vertex: 'ExtraMonitorSupport47'
+Model: ExtraMonitorSupport
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (7, 7, 1) 
+
+**** Vertex: 'multicast speed up application vertex for 0, 0'
+Model: DataSpeedUpPacketGather
+Pop size: 1
+Machine Vertices: 
+  Slice 0:0 (1 atoms) on core (0, 0, 2) 
+
